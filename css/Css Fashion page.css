@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css2?family=Pinyon+Script&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500&family=Quicksand:wght@300;400;500;600;700&family=Ramaraja&family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+   
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* .navbar{
+    overflow: hidden;
+} */
+.nav-list{
+  margin-left: 230px;
+ 
+}
+.nav-content{
+   margin-left: 164px;
+
+}
+.nav-list li{
+    padding: 10px;
+}
+.nav-link{
+    color: black;
+    text-transform:uppercase;
+}
+.icons{
+    margin-left: 164px;
+}
+.font-icon{
+    padding: 20px;
+    color: black;
+    font-size: 20px;
+}
+.fachion-page-image{
+    position: relative;
+    width: 100%;
+}
+.fachion-page-content{
+    position: absolute;
+    bottom: 100px;
+    right: 231px;
+
+}
+.fashion-par-1{
+   font-size: 18px;
+   line-height: 27px;
+}
+.fashion-head-1{
+    font-size: 80px;
+}
+.fashion-banner-btn{
+    margin-left: 34px;
+}
+.btn-2{
+    padding:4px 29px
+}
+.fashion-gall{
+   margin: 100px 0px 0px 200px;
+  
+}
+
+.fashion-gall-1{
+position:relative;
+
+}
+.fashion-gall-2{
+    width: 552px;
+    height: 574px;
+    object-fit:cover;
+    position: absolute;
+    margin-left: 20px;
+}
+.fashion-gall-2:hover{
+    filter: brightness(0.7);
+    transition:all 1.5s;
+}
+.fashion-gallery{
+    margin: 20px 0px 0px 200px;
+}
+.fashion-gallery-1{
+    margin-left: 20px;
+}
+.gall-heading{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.gall-heading h1{
+    font-size: 20px;
+    font-weight: 700px;
+}
+.gall-heading p{
+    font-size: 15px;
+}
+.women-gallery{
+    display: flex;
+    margin-left:200px;
+    margin-top: 50px;
+   
+}
+.women-gallery-1{
+    margin: 10px;
+}
+.color{
+    color: #CF2929;
+    text-decoration: none;
+    margin-left: 100px;
+}
+.color-1{
+    color: black;
+    text-decoration:line-through;
+}
+.women-gallery-1 p{
+    margin-top: 31px;
+}
+.Fashion-style{
+    Width:552px;
+    Height:602px;
+    margin-top: 300px;
+
+}
+.Fashion-style-1{
+    margin-left:29px;
+    margin-top: -100px;
+    position: relative;
+    z-index: -1;
+}
+.Fashion-style-head{
+    margin-left: 450px;
+   margin-top: -100px;
+    text-decoration: underline;
+}
+.Fashion-style-2{
+    margin: -220px 0 0 900px;
+    outline: 25px solid white;
+    width: 227px;
+    height: 281px;
+   
+}
+.collection-div{
+    position: relative;
+    margin-top: 100PX;
+}
+.collection{
+    width: 100%;
+  
+}
+.collection-content{
+    position: absolute;
+    text-align: left;
+    top: 50%;
+    left:10%;
+}
+.coll-par{
+    font-size: 18px;
+    line-height: 27px;
+}
+.coll-button{
+    margin-top: 10px;
+    left: 10px;
+    border-radius: 1px;
+}
+.coll-head{
+   margin:40px 0;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: left;
+    background-color:  #F2F8FC;
+}
+.footer-1{
+    margin-top: 135px;
+    margin-left: 210px;
+}
+.footer-2{
+    margin-top: 100px;
+}
+.footer-par{
+    padding-top: 17px;
+    font-size: 15px;
+}
+.footer-image{
+    margin-top: 41px;
+}
+.image-1{
+    padding-right: 26px;
+}
+.address{
+    text-decoration:none;
+    border-bottom: 2px solid black;
+    color: black;
+   
+}
+.address-1{
+    line-height: 22.5px;
+}
+.footer-icon{
+    padding: 10px;
+   
+}
+.footer-btn{
+    padding: 10px;
+    border: none;
+   
+    color: black;
+    background-color: white;
+}
+.footer-list{
+    display: flex;
+    justify-content: space-around;
+    margin: 100px;
+}
+.footer-head{
+    margin-left: 20px;
+}
+.list
+{
+list-style: none;
+text-align: left;
+}
+.list-2{
+    margin-left: 30px;
+}
+.list li a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+.email-1{
+    margin:30px 70px;
+    font-size: 25px;
+}
+.email{
+    margin-left: 50px;
+    width: 50%;
+    padding: 10px;
+    border:none;
+    margin:0px 0px 0px 70px;
+}
+.footer-3{
+    background-color:  #E7F5F8;
+}
+.copyright{
+    padding: 35px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
